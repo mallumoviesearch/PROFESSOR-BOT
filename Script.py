@@ -144,6 +144,15 @@ these are the extra features of this bot
 • /delallg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀꜱ</code>
 """
 
+    CAPTION = """
+ {file_name}
+╭━━━━━━━━━━━━━━━➣
+┣⪼𝐺𝑅𝑂𝑈𝑃
+┣⪼ @MALLU_MOVIE_SEARCH
+┣⪼𝐹𝐼𝐿𝐸 𝑆𝐼𝑍𝐸:{file_size}
+╰━━━━━━━━━━━━━━━➣
+"""
+
     STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
 <b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
 <b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
@@ -334,6 +343,30 @@ Delete A Lot Of Messages From Groups!
 <code>/song mkn</code>
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  """
+
+    IMDB_TEMPLATE_TXT = """
+🎬 Title: <a href={url}>{title}</a>
+🗓 Year: {year}
+🔊 Language:<a href={url}/ratings>{languages}</a>
+💿 Quality : HDRip 
+🔗 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞 ☞
+""" 
+
+    REQINFO = """
+⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
+
+ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ/ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
+
+𝖳𝖧𝖤𝖠𝖳𝖱𝖤 𝖱𝖴𝖭𝖭𝖨𝖭 ➠ 𝖬𝖮𝖵𝖨𝖤𝖲/𝖢𝖤𝖬𝖤𝖱𝖠 𝖯𝖱𝖨𝖭𝖳 ➠ 𝖭𝖮 𝖴𝖯𝖫𝖮𝖠𝖣 ➠ 𝖳𝖧𝖨𝖲 𝖦𝖱𝖮𝖴𝖯
+
+𝖣𝖮𝖭 𝖳 𝖶𝖠𝖲𝖳𝖤 𝖸𝖮𝖴𝖱 𝖳𝖨𝖬𝖤🚯 
+"""
+
+    START_TXT = """𝖧𝖤𝖫𝖮 {},
+𝖬𝖸 𝖭𝖠𝖬𝖤 𝖨𝖲 <a href=https://t.me/{}>{}</a>, 𝖨 𝖠𝖬 𝖦𝖱𝖮𝖴𝖯 𝖬𝖠𝖭𝖠𝖦𝖤𝖱 𝖡𝖮𝖳 𝖢𝖱𝖤𝖠𝖳𝖤𝖣 𝖥𝖮𝖱 𝖬𝖠𝖫𝖫𝖴 𝖬𝖮𝖵𝖨𝖤 𝖲𝖤𝖠𝖱𝖢𝖧 , 𝖮𝖭𝖨𝖸 𝖠𝖴𝖳𝖧𝖮𝖱𝖨𝖲𝖤𝖣 𝖠𝖣𝖬𝖨𝖭𝖲 𝖢𝖠𝖭 𝖠𝖢𝖢𝖤𝖲𝖲
+
+𝖣𝖮𝖭 𝖳 𝖶𝖠𝖲𝖳𝖤 𝖸𝖮𝖴𝖱 𝖳𝖨𝖬𝖤😁
+"""
 
 
     

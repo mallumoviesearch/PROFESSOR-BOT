@@ -2,6 +2,7 @@ import re
 from os import environ
 import asyncio
 import json
+from Script import script
 from collections import defaultdict
 from typing import Dict, List, Union
 from pyrogram import Client
